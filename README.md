@@ -8,7 +8,7 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 * 📱 Laravel
 * 🤖 Arduino
 * 💻 HTML, CSS, JS, JAVA, PHP
-* 🖼️ Figma, PS, AI
+* 🖼️ Figma, PS, AI, XD
 * 🎬 Adobe Premiere, Vegas, Filmora
 * 🎵 FL Studio, Cubase 5
 
