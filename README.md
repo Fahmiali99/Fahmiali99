@@ -12,7 +12,7 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 * 🎬 Adobe Premiere, Vegas, Filmora
 * 🎵 FL Studio, Cubase 5
 
-<img align='right' src='https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif' width='200"'>
+<img align='right' top="-300px" src='https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif' width='200"'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmiali99)](https://github.com/anuraghazra/github-readme-stats)
 
