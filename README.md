@@ -1,7 +1,7 @@
 # Hi there, I'm Fahmi <img src="https://raw.githubusercontent.com/gillyhuga/gillyhuga/master/wave.gif" width="30px">
 I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. I also interest to UI & UX and design in general. 
 
-:mailbox: Reach me at : Fahmiali13.umm.ac.id
+:mailbox: Reach me at : fahmiali130499@gmail.com
 
 ## Skills and Experience
 * ⚛ React
