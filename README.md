@@ -15,7 +15,8 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 <img align='right' src='https://media2.giphy.com/media/D66ZL6WGHsd6Kwij7J/200w.webp?cid=ecf05e47g2jtoiani0zc6zih3rxlm6wglmp8mf3m4wg9dies&rid=200w.webp&ct=s' width='200"'>
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmiali99&theme=tokyonight&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Fahmiali99)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ajenggcp)
+![Ajeng's github stats](https://github-readme-stats.vercel.app/api/?username=ajenggcp) <!--&hide=contribs -->
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
