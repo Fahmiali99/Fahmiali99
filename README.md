@@ -16,8 +16,8 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmiali99&theme=tokyonight&show_icons=true&count_private=true)
 
-<a href="https://wakatime.com/@Fahmiali99">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fahmiali99&langs_count=4&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="gillyhuga's Wakatime stats" />
+<a href="https://wakatime.com/@fahmiali99">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmiali99&langs_count=4&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="fahmiali's Wakatime stats" />
 </a>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
