@@ -5,6 +5,8 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 
 ## Skills and Experience
 * ⚛ React
+* 💻 Next.JS
+* 💻 Vue.JS
 * 📱 Laravel
 * 🤖 Arduino
 * 💻 HTML, CSS, JS, JAVA, PHP
