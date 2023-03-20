@@ -22,6 +22,8 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmiali99&langs_count=4&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="fahmiali's Wakatime stats" />
 </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmiali99&show_icons=true&locale=en&layout=compact" alt="fahmiali99" /></p>
+
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LARE.USING.13/)
