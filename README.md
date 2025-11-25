@@ -1,5 +1,5 @@
 # Hi there, I'm Fahmi 
-I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future. I really enjoy learning languages and frameworks like React, NextJS, Angular and Laravel, as well as work in WordPress. I also interest to UI & UX and design in general. 
+I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future. I really enjoy learning languages and frameworks like React, Vue, NextJS, NuxtJS, Angular and Laravel, as well as work in WordPress. I also interest to UI & UX and design in general. 
 
 :mailbox: Reach me at : fahmiali130499@gmail.com
 
@@ -8,6 +8,8 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 * 💻 Next.JS
 * 💻 Vue.JS
 * 💻 Nuxt.JS
+* 🗄️ MongoDB
+* 🗄️ Cloudflare
 * 📱 Laravel
 * 🤖 Arduino
 * 💻 HTML, CSS, JS, JAVA, PHP, TypeScript
