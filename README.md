@@ -8,8 +8,10 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 * 💻 Next.JS
 * 💻 Vue.JS
 * 💻 Nuxt.JS
-* 🗄️ MongoDB
+* 🗄️ MongoDB, Supabase, Aiven
 * 🗄️ Cloudflare
+* 🗄️ Google Cloud
+* 🗄️ Golang
 * 📱 Laravel
 * 🤖 Arduino
 * 💻 HTML, CSS, JS, JAVA, PHP, TypeScript
