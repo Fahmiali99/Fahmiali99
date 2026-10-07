@@ -14,7 +14,7 @@ I'm Fahmi Ali Husni from Indonesia, and i hope found new innovations for future.
 * 🗄️ Golang
 * 📱 Laravel
 * 🤖 Arduino
-* 💻 HTML, CSS, JS, JAVA, PHP, TypeScript
+* 💻 HTML, CSS, JS, JAVA, PHP, TypeScript, GO
 * 🧪 QA Automation (Katalon Studio)
 * 🖼️ Figma, PS, AI, XD
 * 🎬 Adobe Premiere, Vegas, Filmora
